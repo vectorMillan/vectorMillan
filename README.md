@@ -49,18 +49,18 @@ Este es un proyecto que ya esta avanzado, tiene implementadas las funciones de u
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Python, Java, SQL, Visual Basic  
-- **IA / ML:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, OpenCV  
+- **Lenguajes:** Python, Java, SQL
+- **IA / ML:** Scikit-learn, Pandas, Yolo V8, BERT 
 - **NLP:** NLTK, SpaCy, Sentence-BERT  
 - **Bases de Datos:** MySQL, SQLite, PostgreSQL  
-- **Desarrollo Web:** Flask, HTML, CSS, JavaScript  
+- **Desarrollo Web:** Flask, HTML, CSS, JavaScript, Django  
 - **Control de Versiones:** Git, GitHub  
 
 ---
 
 ## 📫 Conéctate conmigo
 
-- 📧 **Correo:** [tuemail@ejemplo.com]  
+- 📧 **Correo:** [victormillan23aguilar@gmail.com](#)  
 - 💼 **LinkedIn:** [linkedin.com/in/victor-millan](#)  
 - 🧠 **GitHub:** [github.com/victor-millan](#)  
 

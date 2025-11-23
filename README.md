@@ -31,7 +31,7 @@ Implementación de una red neuronal profunda para la clasificación de imágenes
 **Repositorio de Tesis - CENIDET**  
 Este es un proyecto que ya esta avanzado, tiene implementadas las funciones de un CRUD además de almacenar archivos PDF. Tiene implementado un modelo que extrae metadatos de archivos PDF al cargar el archivo para llenar el formulario de registro de la Tesis.  
 🔸 *Tecnologías:* Python, Django, TensorFlow, MySQL
-[Repositorio del Proyecto](https://github.com/vectorMillan/CenidetRepositorio.git)
+[Repositorio del Proyecto](https://github.com/vectorMillan/Repositorio-de-Tesis.git)
 
 ### 🔹 Publicación Científica  
 **Artículo:** *“Identificación de patrones lingüísticos, temáticos, emocionales e intención en los corridos y la música regional mexicana”*  
